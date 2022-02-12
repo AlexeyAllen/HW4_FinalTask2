@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\HW4_FinalTask2.dll"</Assembly>
+		<AddInId>9AD4D9A4-F8E5-4B58-92E0-F043DC24FD4A</AddInId>
+		<FullClassName>HW4_FinalTask2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Итоговое задание 2</Text>
+	</AddIn>
+</RevitAddIns>
